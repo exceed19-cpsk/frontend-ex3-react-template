@@ -5,14 +5,14 @@
 แบบฝึกนี้จะให้น้องๆทดลองสร้างเว็บเป็นของตัวเอง\
 ให้น้องๆเขียนฟังก์ชันต่างๆในแบบของตัวเอง\
 แนะนำให้ปรับเปลี่ยนเฉพาะในไฟล์ App.js กับ Home.js\
-พี่ได้ทำไฟล์ css ให้บางส่วนแล้ว\
+พี่ได้ทำไฟล์ css ให้บางส่วนแล้ว
 
 ## Installation Guide
 
 -ให้ใช้คำสั่งเหล่านี้ใน Terminal ตามลำดับ\
 -npm install\
 -json-server db.json --port 3004\
--npm start\
+-npm start
 
 ## API URL
 
@@ -21,7 +21,7 @@
 -get dessert http://localhost:3004/dessert \
 -get drinks http://localhost:3004/drinks \
 -get sauces http://localhost:3004/sauces \
--get sides http://localhost:3004/sides \
+-get sides http://localhost:3004/sides
 
 ## Required function
 
