@@ -16,12 +16,12 @@
 
 ## API URL
 
--get pizza http://localhost:3004/pizza\
--get pasta http://localhost:3004/pasta\
--get dessert http://localhost:3004/dessert\
--get drinks http://localhost:3004/drinks\
--get sauces http://localhost:3004/sauces\
--get sides http://localhost:3004/sides\
+-get pizza http://localhost:3004/pizza \
+-get pasta http://localhost:3004/pasta \
+-get dessert http://localhost:3004/dessert \
+-get drinks http://localhost:3004/drinks \
+-get sauces http://localhost:3004/sauces \
+-get sides http://localhost:3004/sides \
 
 ## Required function
 
